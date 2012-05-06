@@ -10,10 +10,11 @@ p, blockquote, q, pre, address, hr, code, samp, dl, ol, ul, form, table, fieldse
 #header .last { margin-right:0 }
 #util { margin-top:1em }
 #util a { background-image:url(/resources/images/links.png); margin:0 5px; width:32px; height:32px; text-indent:-9999px; display:block; float:left; outline:none }
-#util div { overflow:hidden; width:136px; margin:0 auto }
-#twitter { background-position:0 0 }
-#delicious { background-position:-32px 0 }
-#rss { background-position:-64px 0 }
+#util div { overflow:hidden; width:168px; margin:0 auto }
+#github { background-position:0 0 }
+#twitter { background-position:-32px 0 }
+#delicious { background-position:-64px 0 }
+#rss { background-position:-96px 0 }
 #util span { display:block; margin-top:1em }
 small.publication-date { color:#999 }
 .cont-read { display:block; text-align:right }
