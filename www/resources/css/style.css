@@ -20,7 +20,7 @@ body { font-family:georgia, palatino, 'palatino linotype', times, 'times new rom
 
 /*text*/
 h1, h2, h3, h4, h5, h6 { font-weight:bold }
-h1 { font-size:3em; line-height:1.1; margin-bottom:.238em }
+h1 { font-size:2.5em; line-height:1.1; margin-bottom:.238em }
 h2, legend { font-size:2em; line-height:1.15; margin-bottom:.357em }
 h3 { font-size:1.5em; line-height:1.2; margin-bottom:.476em }
 h4, h5, h6 { font-size:1em; margin-bottom:.715em }
@@ -38,7 +38,7 @@ center { text-align:center }
 /*hypertext*/
 a { text-decoration:none }
 a:link, #header a:visited { color:#03B2D1 }
-a:visited { color:#551A8B }
+a:visited { color:#A7DBD8 }
 a:hover, a:active, a:focus { color:#B603D1 !important }
 a:focus { outline:1px dotted }
 
